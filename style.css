@@ -1,0 +1,1 @@
+body{ font-family:Arial,sans-serif; background-color:#f2f2f2; } .box{ width:320px; margin:40pxauto; background:white; border:1pxsolid#999; padding:20px; } input{ width:93%; padding:8px; margin-bottom:8px; border:1pxsolid#999; } button{ padding:8px14px; background-color:green; color:white; border:none; cursor:pointer; } #status{ margin-top:12px; color:green; font-weight:bold; }
